@@ -8,13 +8,13 @@ For this script, I use GCE vCPUx1, Ubuntu 16.04 LTS, HDD 40GB.
 
 ```
 $ sudo apt-get -y update
-$ sudo atp-get -y upgrade
+$ sudo apt-get -y upgrade
 $ sudo apt-get -y install ruby
 $ sudo gem install itamae
 $ itamae local p4bvm_recipe.rb
 ```
 
-## versons
+## versions
 
 - protobuf 3.0.2
 - p4v 0.1
